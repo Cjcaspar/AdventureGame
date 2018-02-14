@@ -1,4 +1,6 @@
-package com.company;
+package com.company.character;
+
+import com.company.character.Character;
 
 public class Warrior extends Character {
     public Warrior(String name, int health, int damage, int armor, int xp, int level) {

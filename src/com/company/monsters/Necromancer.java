@@ -1,6 +1,8 @@
-package com.company;
+package com.company.monsters;
 
-public class Necromancer extends Monster{
+import com.company.character.Character;
+
+public class Necromancer extends Monster {
 
     public Necromancer(String name, int health, int damage, int armor, int level, int xp) {
         super(name, health, damage, armor, level, xp);

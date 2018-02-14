@@ -1,4 +1,6 @@
-package com.company;
+package com.company.character;
+
+import com.company.character.Character;
 
 public class Mage extends Character {
 

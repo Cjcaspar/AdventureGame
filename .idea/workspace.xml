@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="749a3434-b95b-4818-ae54-a5852a4d5d1b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/menu_functionality/Battle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/menu_functionality/Calculate.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Character.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Inventory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Mage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/MainMenu.class" afterPath="$PROJECT_DIR$/out/production/AdventureGame/com/company/MainMenu.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Monster.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Necromancer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Orc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Rogue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Skeleton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/AdventureGame/com/company/Warrior.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Character.java" afterPath="$PROJECT_DIR$/src/com/company/character/Character.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Inventory.java" afterPath="$PROJECT_DIR$/src/com/company/character/Inventory.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Mage.java" afterPath="$PROJECT_DIR$/src/com/company/character/Mage.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MainMenu.java" afterPath="$PROJECT_DIR$/src/com/company/MainMenu.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Monster.java" afterPath="$PROJECT_DIR$/src/com/company/monsters/Monster.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Necromancer.java" afterPath="$PROJECT_DIR$/src/com/company/monsters/Necromancer.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Orc.java" afterPath="$PROJECT_DIR$/src/com/company/monsters/Orc.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Rogue.java" afterPath="$PROJECT_DIR$/src/com/company/character/Rogue.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Skeleton.java" afterPath="$PROJECT_DIR$/src/com/company/monsters/Skeleton.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Warrior.java" afterPath="$PROJECT_DIR$/src/com/company/character/Warrior.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <file leaf-file-name="Character.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/character/Character.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Character.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="method#setName#0;class#Character#0" expanded="false" />
                 <element signature="method#charStatus#0;class#Character#0" expanded="false" />
@@ -37,24 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Mage.java">
+      <file leaf-file-name="Rogue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/character/Rogue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-              <folding>
-                <element signature="method#Mage#0;class#Mage#0" expanded="false" />
-                <element signature="method#CharStatus#0;class#Mage#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rogue.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Rogue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="method#Rogue#0;class#Rogue#0" expanded="false" />
               </folding>
@@ -63,10 +62,10 @@
         </entry>
       </file>
       <file leaf-file-name="Warrior.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Warrior.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/character/Warrior.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="method#Warrior#0;class#Warrior#0" expanded="false" />
               </folding>
@@ -77,51 +76,75 @@
       <file leaf-file-name="MainMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/MainMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <element signature="method#createCharacter#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#game#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#findMonster#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#calculateMHP#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#calculateCHP#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#battle#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#calculateXp#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#getStats#0;class#MainMenu#0" expanded="false" />
-                <element signature="method#createMonster#0;class#MainMenu#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Inventory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Inventory.java">
+      <file leaf-file-name="Battle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/menu_functionality/Battle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+            <state relative-caret-position="240">
+              <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
               <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#findMonster#0;class#Battle#0" expanded="false" />
+                <element signature="method#battle#0;class#Battle#0" expanded="false" />
+                <element signature="method#createMonster#0;class#Battle#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/menu_functionality/Calculate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#calculateMHP#0;class#Calculate#0" expanded="false" />
+                <element signature="method#calculateCHP#0;class#Calculate#0" expanded="false" />
+                <element signature="method#calculateXp#0;class#Calculate#0" expanded="false" />
+                <element signature="method#getStats#0;class#Calculate#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inventory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/character/Inventory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/character/Mage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="method#Mage#0;class#Mage#0" expanded="false" />
+                <element signature="method#CharStatus#0;class#Mage#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Monster.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Monster.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/monsters/Monster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="method#Monster#0;class#Monster#0" expanded="false" />
                 <element signature="method#Monster#1;class#Monster#0" expanded="false" />
@@ -132,14 +155,11 @@
         </entry>
       </file>
       <file leaf-file-name="Orc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Orc.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/monsters/Orc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-              <folding>
-                <element signature="method#Orc#0;class#Orc#0" expanded="false" />
-                <element signature="method#Orc#1;class#Orc#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -174,10 +194,24 @@
         <option value="$PROJECT_DIR$/src/com/company/Skeleton.java" />
         <option value="$PROJECT_DIR$/src/com/company/Character.java" />
         <option value="$PROJECT_DIR$/src/com/company/Warrior.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Monster.java" />
         <option value="$PROJECT_DIR$/src/com/company/Inventory.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MainMenu.java" />
         <option value="$PROJECT_DIR$/src/com/company/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/company/Monster/Monster.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Monster.java" />
+        <option value="$PROJECT_DIR$/src/com/company/monsters/Monster.java" />
+        <option value="$PROJECT_DIR$/src/com/company/monsters/Orc.java" />
+        <option value="$PROJECT_DIR$/src/com/company/monsters/Necromancer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/monsters/Skeleton.java" />
+        <option value="$PROJECT_DIR$/src/com/company/character/Character.java" />
+        <option value="$PROJECT_DIR$/src/com/company/character/Mage.java" />
+        <option value="$PROJECT_DIR$/src/com/company/character/Inventory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/character/Rogue.java" />
+        <option value="$PROJECT_DIR$/src/com/company/character/Warrior.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/com/company/menu_functionality/Creation.java" />
+        <option value="$PROJECT_DIR$/src/com/company/menu_functionality/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MainMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/menu_functionality/Battle.java" />
       </list>
     </option>
   </component>
@@ -230,6 +264,9 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -299,6 +336,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1440" height="813" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -313,7 +351,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -333,7 +371,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="22" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -358,114 +396,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Skeleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Necromancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding>
-            <element signature="method#Necromancer#0;class#Necromancer#0" expanded="false" />
-            <element signature="method#Necromancer#1;class#Necromancer#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Orc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding>
-            <element signature="method#Orc#0;class#Orc#0" expanded="false" />
-            <element signature="method#Orc#1;class#Orc#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Warrior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="method#Warrior#0;class#Warrior#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Mage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding>
-            <element signature="method#Mage#0;class#Mage#0" expanded="false" />
-            <element signature="method#CharStatus#0;class#Mage#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Monster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding>
-            <element signature="method#Monster#0;class#Monster#0" expanded="false" />
-            <element signature="method#Monster#1;class#Monster#0" expanded="false" />
-            <element signature="method#setLevel#0;class#Monster#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="method#setName#0;class#Character#0" expanded="false" />
-            <element signature="method#charStatus#0;class#Character#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MainMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="method#createCharacter#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#game#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#findMonster#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#calculateMHP#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#calculateCHP#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#battle#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#calculateXp#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#getStats#0;class#MainMenu#0" expanded="false" />
-            <element signature="method#createMonster#0;class#MainMenu#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -477,12 +412,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Rogue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/monsters/Skeleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/monsters/Necromancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/monsters/Orc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/monsters/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#Monster#0;class#Monster#0" expanded="false" />
+            <element signature="method#Monster#1;class#Monster#0" expanded="false" />
+            <element signature="method#setLevel#0;class#Monster#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/character/Warrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#Warrior#0;class#Warrior#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/menu_functionality/Creation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/menu_functionality/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#calculateMHP#0;class#Calculate#0" expanded="false" />
+            <element signature="method#calculateCHP#0;class#Calculate#0" expanded="false" />
+            <element signature="method#calculateXp#0;class#Calculate#0" expanded="false" />
+            <element signature="method#getStats#0;class#Calculate#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/character/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/character/Mage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#Mage#0;class#Mage#0" expanded="false" />
+            <element signature="method#CharStatus#0;class#Mage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/menu_functionality/Battle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findMonster#0;class#Battle#0" expanded="false" />
+            <element signature="method#battle#0;class#Battle#0" expanded="false" />
+            <element signature="method#createMonster#0;class#Battle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/character/Rogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="method#Rogue#0;class#Rogue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/character/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="method#setName#0;class#Character#0" expanded="false" />
+            <element signature="method#charStatus#0;class#Character#0" expanded="false" />
           </folding>
         </state>
       </provider>

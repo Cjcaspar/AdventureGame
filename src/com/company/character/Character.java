@@ -1,4 +1,4 @@
-package com.company;
+package com.company.character;
 import java.util.Scanner;
 
 public class Character {

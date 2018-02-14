@@ -1,4 +1,6 @@
-package com.company;
+package com.company.character;
+
+import com.company.character.Character;
 
 public class Rogue extends Character {
     public Rogue(String name, int health, int damage, int armor, int xp, int level) {

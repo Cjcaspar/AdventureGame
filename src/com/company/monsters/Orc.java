@@ -1,4 +1,6 @@
-package com.company;
+package com.company.monsters;
+
+import com.company.character.Character;
 
 public class Orc extends Monster {
 
